@@ -1,0 +1,4 @@
+﻿  reading2016Clashfinder.cpp
+c:\users\owner\documents\c++\reading2016clashfinder\reading2016clashfinder\reading2016clashfinder.cpp(174): warning C4018: '<': signed/unsigned mismatch
+  reading2016Clashfinder.vcxproj -> C:\Users\owner\Documents\C++\reading2016Clashfinder\Debug\reading2016Clashfinder.exe
+  reading2016Clashfinder.vcxproj -> C:\Users\owner\Documents\C++\reading2016Clashfinder\Debug\reading2016Clashfinder.pdb (Full PDB)
